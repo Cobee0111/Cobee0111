@@ -7,7 +7,7 @@
 #### 적절한 비유와 이해하기 쉬운 말들로 여러분께 전달해드리겠습니다.
 
 ## 구경하는 링크 🚀
-| 티스토리 | 인스타그램 | GPTs |
-| ------ | ------ | ------ |
-|<a href="https://cobee0111.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ec4815?style=plastic&logo=Tistory&logoColor=white"/></a>|<a href="https://www.instagram.com/cobee0111/" target="_blank"><img src="https://img.shields.io/badge/Instargram-e4405f?style=plastic&logo=Instagram&logoColor=white"/></a>|<a href="https://www.cobee0111.store/" target="_blank"><img src="https://img.shields.io/badge/cobee's-F0B90B?style=plastic&logo=Bricks&logoColor=white"/></a>|
+| 티스토리 | 인스타그램 | GPTs | 유튜브 |
+| ------ | ------ | ------ | ------ |
+|<a href="https://cobee0111.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ec4815?style=plastic&logo=Tistory&logoColor=white"/></a>|<a href="https://www.instagram.com/cobee0111/" target="_blank"><img src="https://img.shields.io/badge/Instargram-e4405f?style=plastic&logo=Instagram&logoColor=white"/></a>|<a href="https://www.cobee0111.store/" target="_blank"><img src="https://img.shields.io/badge/cobee's-F0B90B?style=plastic&logo=Bricks&logoColor=white"/></a>|<a href="https://www.youtube.com/@-cobee" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0000?style=plastic&logo=YouTube&logoColor=white"/></a>|
 
